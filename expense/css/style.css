@@ -1,0 +1,26 @@
+html,body{overflow:scroll !important;}
+.ui-tabs-nav li {position: relative;}
+.ui-tabs-selected a span {padding-right: 10px;}
+.ui-tabs-close {display: none;position: absolute;top: 3px;right: 0px;z-index: 800;width: 16px;height: 14px;font-style: normal;cursor: pointer;}
+.ui-tabs-selected .ui-tabs-close {display: block;}
+.ui-layout-west .ui-jqgrid tr.jqgrow td { border-bottom: 0px none;}
+.ui-datepicker {z-index:1200;}
+.ui-searchFilter {display: none;overflow: visible;position: absolute;z-index: 770;}
+.ui-jqdialog-content .CaptionTD {width:75px;vertical-align:middle;}
+.ui-jqdialog-content .FormElement {width: 80%;}
+.ui-tabs .ui-tabs-panel{padding:1em;}
+.ui-jqgrid tr.jqgrow td {white-space: normal !important;}
+
+
+
+.right{float:right;display:inline;}
+.left{float:left;display:inline;}
+.clear{clear:both}
+
+.expense_application_container,.ui-widget{font-size:92% !important;}
+#LeftPane{width:20%;}
+#RightPane{width:79.5%;}
+
+.optionContainer{margin:5px 0 10px 0;width:100%;}
+.optionContainer .date_container{margin-left:1%;}
+.optionContainer .select_container{margin-right:5%;}

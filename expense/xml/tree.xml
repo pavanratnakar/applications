@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding="utf-8"?>
+<rows>
+
+    <page>1</page>
+    <total>1</total>
+    <records>1</records>
+	
+	<row><cell>000</cell><cell>Expense Module</cell><cell></cell><cell>0</cell><cell>001</cell><cell>099</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>001</cell><cell>Operations</cell><cell>controller/ajaxController.php?submodule=expense&amp;date=TRUE</cell><cell>1</cell><cell>012</cell><cell>015</cell><cell>true</cell><cell>true</cell></row>
+
+    <row><cell>100</cell><cell>Income Module</cell><cell></cell><cell>0</cell><cell>101</cell><cell>199</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>101</cell><cell>Operations</cell><cell>controller/ajaxController.php?submodule=income&amp;date=TRUE</cell><cell>1</cell><cell>112</cell><cell>115</cell><cell>true</cell><cell>true</cell></row>
+
+    <row><cell>200</cell><cell>Statistics Module</cell><cell></cell><cell>0</cell><cell>201</cell><cell>299</cell><cell>false</cell><cell>false</cell></row>
+	<!--<row><cell>101</cell><cell>All</cell><cell>test.php</cell><cell>1</cell><cell>102</cell><cell>110</cell><cell>true</cell><cell>true</cell></row>-->
+	<row><cell>202</cell><cell>Category</cell><cell>controller/ajaxController.php?visualize=category&amp;date=TRUE</cell><cell>1</cell><cell>212</cell><cell>220</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>203</cell><cell>Sub Category</cell><cell>controller/ajaxController.php?visualize=sub_category&amp;date=TRUE</cell><cell>1</cell><cell>222</cell><cell>230</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>204</cell><cell>Person</cell><cell>controller/ajaxController.php?visualize=user&amp;date=TRUE</cell><cell>1</cell><cell>232</cell><cell>240</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>205</cell><cell>Payment</cell><cell>controller/ajaxController.php?visualize=payment&amp;date=TRUE</cell><cell>1</cell><cell>242</cell><cell>250</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>206</cell><cell>Logged User</cell><cell>controller/ajaxController.php?visualize=logged_user&amp;date=TRUE</cell><cell>1</cell><cell>252</cell><cell>260</cell><cell>true</cell><cell>true</cell></row>
+
+    <row><cell>300</cell><cell>Category Module</cell><cell></cell><cell>0</cell><cell>301</cell><cell>399</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>301</cell><cell>Expense Category</cell><cell>controller/ajaxController.php?submodule=category</cell><cell>1</cell><cell>302</cell><cell>310</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>302</cell><cell>Expense Sub Category</cell><cell>controller/ajaxController.php?submodule=subcategory</cell><cell>1</cell><cell>312</cell><cell>320</cell><cell>true</cell><cell>true</cell></row>
+	<row><cell>303</cell><cell>Income Category</cell><cell>controller/ajaxController.php?submodule=income_category</cell><cell>1</cell><cell>322</cell><cell>330</cell><cell>true</cell><cell>true</cell></row>
+    <row><cell>304</cell><cell>Payment Category</cell><cell>controller/ajaxController.php?submodule=payment_category</cell><cell>1</cell><cell>332</cell><cell>340</cell><cell>true</cell><cell>true</cell></row>
+    
+    <row><cell>400</cell><cell>Loan Module</cell><cell></cell><cell>0</cell><cell>401</cell><cell>499</cell><cell>false</cell><cell>false</cell></row>
+	<row><cell>401</cell><cell>Operations</cell><cell>controller/ajaxController.php?submodule=loan</cell><cell>1</cell><cell>402</cell><cell>410</cell><cell>true</cell><cell>true</cell></row>
+
+</rows>

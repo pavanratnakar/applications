@@ -1,0 +1,4 @@
+[19-Feb-2012 17:42:10] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2013): Lost connection to MySQL server at 'sending authentication information', system error: 32 in /home/pavanrat/public_html/applications/login/class/user.php on line 11
+[19-Feb-2012 17:42:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pavanrat/public_html/applications/login/class/user.php:11) in /home/pavanrat/public_html/applications/expense/controller/pageController.php on line 10
+[19-Feb-2012 17:42:29] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/pavanrat/public_html/applications/login/class/user.php on line 55
+[19-Feb-2012 17:42:34] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home/pavanrat/public_html/applications/login/class/user.php on line 131
